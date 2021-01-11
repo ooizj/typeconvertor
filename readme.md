@@ -1,4 +1,4 @@
-a type converter.
+a type convertor.
 
 ## usage
 ```java
